@@ -100,3 +100,221 @@ When a concept becomes established:
 Session notes are temporary working documents.
 
 Collection notes are permanent reference documents.
+
+
+
+# Industrial Hazard Classification
+
+## Purpose
+
+The Industrial Hazard Classification collection is a core collection within the [[Industrial Brand Universe]].
+
+The collection combines internationally recognized hazard symbols with classification terms that can be interpreted as physical, emotional, psychological, or identity-based states.
+
+Refer to [[Design Standards]] for all visual and technical requirements.
+
+---
+
+# Design Format
+
+SYMBOL
+
+CLASSIFICATION
+
+OPTIONAL SUPPORTING TEXT
+
+Examples:
+
+☣
+
+TOXIC
+
+---
+
+⚡
+
+LETHAL
+
+---
+
+💥
+
+UNSTABLE
+
+The symbol and classification should carry the majority of visual weight.
+
+Supporting text should remain secondary.
+
+---
+
+# Core Concept
+
+International hazard symbols paired with industrial classifications.
+
+The design should communicate an immediate warning, condition, or designation.
+
+The classification itself is the primary product.
+
+---
+
+# Current Classifications
+
+## TOXIC
+
+Symbol:
+
+- Biohazard
+    
+
+---
+
+## LETHAL
+
+Symbol:
+
+- High Voltage
+    
+
+---
+
+## UNSTABLE
+
+Symbol:
+
+- Explosive
+    
+
+---
+
+## CAUSTIC
+
+Symbol:
+
+- Corrosive Liquid
+    
+
+---
+
+## VOLATILE
+
+Symbol:
+
+- Gas Under Pressure
+    
+
+---
+
+# Future Classifications
+
+## High Priority
+
+- CONTAMINATED
+    
+- DEFECTIVE
+    
+- EXPOSED
+    
+- DAMAGED
+    
+- CORRUPTED
+    
+- RESTRICTED
+    
+- HAZARDOUS
+    
+- COMPROMISED
+    
+
+---
+
+## Experimental
+
+- DAMNED
+    
+- CURSED
+    
+- INFECTED
+    
+- FRACTURED
+    
+- COLLAPSED
+    
+- CRITICAL
+    
+- TERMINAL
+    
+
+---
+
+# Symbol Sources
+
+Preferred symbols:
+
+- Biohazard
+    
+- High Voltage
+    
+- Explosive
+    
+- Corrosive
+    
+- Gas Under Pressure
+    
+- Radiation
+    
+- Oxidizer
+    
+- Environmental Hazard
+    
+- General Warning
+    
+
+Symbols should remain simple, recognizable, and visually dominant.
+
+---
+
+# Collection Relationship
+
+Related Collections:
+
+- [[Status Classification]]
+    
+- [[Disposal & Recovery Division]]
+    
+- [[Corrupted Character Universe]]
+    
+
+Hazard classifications identify conditions.
+
+Status classifications identify outcomes.
+
+Disposal & Recovery classifications identify lifecycle states.
+
+Corrupted Character classifications identify entities.
+
+---
+
+# Priority Designs
+
+Current priority designs for generation:
+
+- TOXIC
+    
+- LETHAL
+    
+- UNSTABLE
+    
+- CAUSTIC
+    
+- VOLATILE
+    
+- CONTAMINATED
+    
+- DEFECTIVE
+    
+
+---
+
+# Collection Goal
+
+Create a scalable collection of industrial warning graphics using internationally recognized hazard symbols, bold classifications, and immediate readability while maintaining compatibility with the broader [[Industrial Brand Universe]].
