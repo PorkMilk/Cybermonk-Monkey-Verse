@@ -1,0 +1,42 @@
+# Design Library
+
+Collection: **Industrial Aesthetic** (cybermonkmonkey.com)
+
+## Industrial Hazard Classification
+- [x] TOXIC — live
+- [x] LETHAL — live
+- [x] UNSTABLE — live
+- [x] CAUSTIC — live
+- [x] CONTAMINATED — live
+- [ ] VOLATILE — **NEXT UP**
+
+## Status Classification
+Same tone as hazard set (stamp/label, classified-system logic). None live yet — this is the next line to design and fold into Industrial Aesthetic.
+- [ ] APPROVED
+- [ ] REJECTED
+- [ ] DEFECTIVE
+- [ ] QUARANTINED
+- [ ] ISOLATED
+- [ ] RESTRICTED
+- [ ] OBSOLETE
+- [ ] ARCHIVED
+
+## Disposal & Recovery Division
+Different angle (salvage/reclaim vs. hazard/warning) — still industrial, could live in this collection or spin off its own.
+- [x] SURPLUS — live
+- [ ] RECLAIMED
+- [ ] SALVAGED
+- [ ] RECOVERED
+- [ ] SCRAPPED
+- [ ] REDEPLOYED
+
+## Untracked (live, not in outline)
+- YEARNING
+- FALLOUT
+
+---
+
+## Priority order for next designs
+1. VOLATILE — finishes Hazard set
+2. Status Classification set (8 names) — new sub-line, same aesthetic
+3. Remaining Disposal & Recovery names (5 left)
